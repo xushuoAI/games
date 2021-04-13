@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="data"
+            type="com.example.game_lol.data.HotItemData" />
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.coorchice.library.SuperTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12dp"
+            android:layout_marginVertical="10dp"
+            android:gravity="center"
+            android:paddingVertical="10dp"
+            android:textSize="13sp"
+            android:textColor="@color/colorPrimary"
+            app:stv_corner="15dp"
+            app:stv_stroke_width="1dp"
+            android:text="@{data.title}"
+            tools:text="TES 战胜 SN" />
+
+    </LinearLayout>
+</layout>

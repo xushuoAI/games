@@ -1,0 +1,5 @@
+include ':game-net'
+include ':game-common'
+include ':game-lol'
+include ':app'
+rootProject.name = "Games"

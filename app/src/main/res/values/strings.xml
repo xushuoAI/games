@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Games</string>
+
+
+    <string name="lol">League of Legends</string>
+    <string name="lol_introduce">《英雄联盟》（League of Legends，简称LOL）是由美国拳头游戏（Riot Games）开发、中国内地腾讯游戏代理运营的英雄对战MOBA竞技网游。</string>
+
+    <string name="DNF">Dungeon-Fighter</string>
+    <string name="DNF_introduce">《地下城与勇士》是一款韩国网络游戏公司NEOPLE开发的免费角色扮演2D游戏，由三星电子发行，并于2005年8月在韩国正式发布。中国则由腾讯游戏代理发行。</string>
+
+    <string name="CSGO">CS·GO</string>
+    <string name="CSGO_introduce">《反恐精英：全球攻势》，原名《Counter-Strike: Global Offensive》，是一款由VALVE与Hidden Path Entertainment合作开发、Valve Software发行的第一人称射击游戏，于2012年8月21日在欧美地区正式发售，国服发布会于2017年4月11日在北京召开。 [1-2]  游戏为《反恐精英》系列游戏的第四款作品（不包括Neo和Online等衍生作品）。</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
